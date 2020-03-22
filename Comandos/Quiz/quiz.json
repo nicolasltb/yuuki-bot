@@ -1,0 +1,28 @@
+[
+
+	{
+		"pergunta": "Qual a cor preferida do Nicolas? (Essa tem 2 respostas possiveis)",
+		"resposta": ["laranja", "roxo"]
+	},
+	{
+		"pergunta": "Quantos anos o Nicolas tem?",
+		"resposta": ["17", "dezessete"]
+    },
+    {
+    "pergunta": "Qual o nome da cachorrinha do Nicolas?",
+		"resposta": ["meggie"]
+    },
+    {
+    "pergunta": "Em qual mes o Nicolas faz aniversario?",
+		"resposta": ["6", "junho"]
+    },
+    {
+    "pergunta": "Qual o personagem de filme favorito do Nicolas?",
+		"resposta": ["coringa", "coronga", "moringa"]
+    },
+    {
+    "pergunta": "Qual personagem do lol o Nicolas mais odeia?",
+		"resposta": ["yuumi"]
+    }
+
+]

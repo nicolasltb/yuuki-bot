@@ -1,0 +1,19 @@
+{
+  "name": "yuuki",
+  "version": "0.0.1",
+  "description": "Pertenco ao Nicolas-kun",
+  "main": "bot.js",
+  "author": "Nicolas Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "beautify": "0.0.8",
+    "collections": "^5.1.9",
+    "discord.js": "^11.6.3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "node-fetch": "^2.6.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^1.0.6"
+  }
+}
