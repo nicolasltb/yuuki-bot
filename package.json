@@ -6,14 +6,17 @@
   "author": "Nicolas Lopes",
   "license": "ISC",
   "dependencies": {
+    "@microsoft/office-js": "^1.1.38",
     "ascii-table": "0.0.9",
     "beautify": "0.0.8",
     "collections": "^5.1.9",
     "discord.js": "^11.6.3",
     "ffmpeg": "0.0.4",
     "ffmpeg-binaries": "^4.0.0",
+    "googleapis": "^39.2.0",
     "node-fetch": "^2.6.0",
     "opusscript": "0.0.7",
+    "puppeteer": "^3.3.0",
     "ytdl-core": "^1.0.6"
   }
 }
